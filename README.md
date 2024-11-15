@@ -20,6 +20,14 @@
 
 <img src="markdown_doc/space_invaders.png" alt="Capture d'écran du jeu" width="500"/>
 
+### Exemple : 
+
+<video width="600" controls loop autoplay>
+  <source src="markdown_doc/video.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la balise vidéo.
+</video>
+
+
 ###### Musique secrète quand la touche k est presser
 
 
