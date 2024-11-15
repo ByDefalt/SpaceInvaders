@@ -14,7 +14,7 @@
   - *(Aucune installation requise, fait partie de la bibliothèque standard sur Windows)*
 
 - **Json**  
-  - *(Aucune installation requise, fait partie de la bibliothèque standard sur Windows)*
+  - *(Aucune installation requise, fait partie de la bibliothèque standard de Python)*
 
 ### Capture d'écran : 
 
