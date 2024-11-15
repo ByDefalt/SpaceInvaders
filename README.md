@@ -16,6 +16,7 @@
 - **Json**  
   - *(Aucune installation requise, fait partie de la bibliothèque standard sur Windows)*
 
-### Capture d'écran
+### Capture d'écran : 
+
 
 ![Capture d'écran du jeu](markdown_doc/space_invaders.png "Espace de jeu Space Invaders")
