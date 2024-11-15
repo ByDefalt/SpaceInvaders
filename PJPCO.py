@@ -1,4 +1,4 @@
-#   Nom du projet: SpaceInvaders    date: 29/11/2022    Nom créateur: Romain Rousval/ Rayan Brossard
+#   Nom du projet: SpaceInvaders    date: 29/11/2022    Nom créateur: Romain Rousval
 #   Fonction: Lance le jeu SpaceInvaders créer par nous même
 #   Systèmme de jeu: Le joueur contrôle un vaisseau qu'il peut se déplacer horizontalement en bas de l'écran et tirer des projectiles. 
 #                    Dans les airs, des rangées d'aliens se déplacent latéralement tout en se rapprochant progressivement et de plus en plus vite du vaisseau tout en lançant des projectiles. 
