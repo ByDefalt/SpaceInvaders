@@ -22,11 +22,7 @@
 
 ### Exemple : 
 
-<video width="600" >
-  <source src="markdown_doc/video.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la balise vidéo.
-</video>
-
+![video jeu](markdown_doc/example_jeu.gif)
 
 ###### Musique secrète quand la touche k est presser
 
