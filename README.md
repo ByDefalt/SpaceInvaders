@@ -11,7 +11,7 @@
   - *(Aucune installation requise, fait partie de la bibliothèque standard de Python)*
 
 - **Winsound**  
-  - *(Aucune installation requise, fait partie de la bibliothèque standard sur Windows)*
+  - *(Aucune installation requise, fait partie de la bibliothèque standard sur Windows ne fonctionne que sur windows)*
 
 - **Json**  
   - *(Aucune installation requise, fait partie de la bibliothèque standard de Python)*
