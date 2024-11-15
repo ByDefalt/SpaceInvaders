@@ -18,5 +18,4 @@
 
 ### Capture d'écran : 
 
-
-![Capture d'écran du jeu](markdown_doc/space_invaders.png "Espace de jeu Space Invaders")
+<img src="markdown_doc/space_invaders.png" alt="Capture d'écran du jeu" width="500"/>
