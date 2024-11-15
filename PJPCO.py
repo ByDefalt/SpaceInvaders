@@ -319,7 +319,7 @@ class Fleet(object):
         self.stopfunction = 0 #permet d'areter des fonction/enpecher le déclanchement
         self.aliens_lines = 5
         self.aliens_columns = 10
-        self.aliens_inner_gap = 10 #vittesse
+        self.aliens_inner_gap = 2 #vittesse
         self.aliens_direction = 1 #direction   Gauche=-1/Droite=1
         self.alien_x_delta = 73/2 #posistion d'origine du 1er l'alien
         self.alien_y_delta = 100  #posistion d'origine du 1er l'alien
