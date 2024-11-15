@@ -22,7 +22,7 @@
 
 ### Exemple : 
 
-![video jeu](markdown_doc/example_jeu.gif)
+<img src="markdown_doc/example_jeu.gif" alt="Animation du jeu" width="500"/>
 
 ###### Musique secrète quand la touche k est presser
 
