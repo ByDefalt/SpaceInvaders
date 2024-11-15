@@ -48,9 +48,6 @@
                 elif key == "Left":
                     self.game.defender.move_in(-self.game.defender.move_delta)#lance la fonction move_in
         self.root.after(15, self.keymanagementRL)#repete la fonction apres 15ms
-    ...
-    ...
-    ...
      ```
 
 - **Utilisation du Json :**
