@@ -22,7 +22,7 @@
 
 ### Exemple : 
 
-<video width="600" controls loop autoplay>
+<video width="600" >
   <source src="markdown_doc/video.mp4" type="video/mp4">
   Votre navigateur ne supporte pas la balise vidéo.
 </video>
